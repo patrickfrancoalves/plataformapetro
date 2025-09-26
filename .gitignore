@@ -1,2 +1,8 @@
-*.agdai
-MAlonzo/**
+config/site.php
+files/cache/*
+files/tmp/*
+*.htaccess
+*.sas7bdat
+*.csv
+
+fapesp.*

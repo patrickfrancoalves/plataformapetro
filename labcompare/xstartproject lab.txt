@@ -1,0 +1,9 @@
+labcompare
+scrapy startproject labcompare
+scrapy crawl labcompare -o labcompare.json
+
+
+
+
+
+

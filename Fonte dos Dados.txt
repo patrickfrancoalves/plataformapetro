@@ -1,0 +1,7 @@
+#Repositório de dados
+#https://zenodo.org/records/11185049
+#https://github.com/tbrugz/geodata-br/blob/master/geojson/geojs-100-mun.json
+
+
+Se salvar os notebooks com os mapas, eles estouram o espaço do GIT
+Estou salvando as figuras separadamente e deixando os notebooks sem os mapas
